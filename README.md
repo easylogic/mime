@@ -18,4 +18,7 @@ all in one web component for many mime types
 
 <!-- iframe view --> 
 <mime value="https://webpage /> 
+             
+<!-- qrcode -->
+<mime type="image/qrcode" value="https://www.easylogic.studio" />
 ```
