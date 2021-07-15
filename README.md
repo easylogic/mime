@@ -17,7 +17,7 @@ all in one web component for many mime types
 <mime value="img.png" />
 
 <!-- iframe view --> 
-<mime value="https://webpage /> 
+<mime value="https://webpage" /> 
              
 <!-- qrcode -->
 <mime type="image/qrcode" value="https://www.easylogic.studio" />
