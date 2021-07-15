@@ -21,4 +21,5 @@ all in one web component for many mime types
              
 <!-- qrcode -->
 <mime type="image/qrcode" value="https://www.easylogic.studio" />
+<mime type="qrcode" value="https://www.easylogic.studio" />
 ```
