@@ -1,5 +1,5 @@
 # mime
-all in one web component for many mime types 
+all in one web viewer for many mime types 
 
 # sample code 
 
